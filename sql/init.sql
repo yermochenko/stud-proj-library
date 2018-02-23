@@ -54,12 +54,12 @@ VALUES
 (5,    "The Bible",                                NULL,        2017          );
 
 INSERT INTO `reader`
-(`id`, `first_name`, `middle_name`, `last_name`, `phone_number`, `address`         )
+(`id`, `first_name`, `middle_name`, `last_name`, `phone_number`, `address`          )
 VALUES
-(1,    "Jack",       NULL,         "London",     "1656453783",  "2 texas street"   ), 
-(2,    "Joanne",    "Kathleen",    "Rowling",    "1965855342",  "5 ohio layout"    ),
-(3,    "Mike",     	"Johnson",     "Richie",     "1234477398",  "22 ohio layout"   ),
-(4,    "Ajay",     	"Counter",     "Crichford",	 "1354874663",  "7 riverside st"   ),
-(5,    "Marcus",    "Rashford",    "Fer",   	 "1878546676",  "21 rosedale drive"),
-(6,    "John",     	"Clinton",     "Steve",  	 "1954467234",  "13 mentor st"     ),
-(7,    "Job",     	"Alex",   	   "Jose",  	 "1764367632",  "31 vindale road"  );
+(1,    "Jack",       NULL,         "London",     "1656453783",   "2 texas street"   ), 
+(2,    "Joanne",    "Kathleen",    "Rowling",    "1965855342",   "5 ohio layout"    ),
+(3,    "Mike",      "Johnson",     "Richie",     "1234477398",   "22 ohio layout"   ),
+(4,    "Ajay",      "Counter",     "Crichford",  "1354874663",   "7 riverside st"   ),
+(5,    "Marcus",    "Rashford",    "Fer",        "1878546676",   "21 rosedale drive"),
+(6,    "John",      "Clinton",     "Steve",      "1954467234",   "13 mentor st"     ),
+(7,    "Job",       "Alex",        "Jose",       "1764367632",   "31 vindale road"  );
